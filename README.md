@@ -1,12 +1,14 @@
 # 🧠 Autonomous Goal-Driven Agent
 
+[💻 Live Demo](https://goal-driven-agent.streamlit.app)  
+
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-Powered-000000?style=for-the-badge&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA_3-Meta-0064E0?style=for-the-badge&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
 
 **A structured, autonomous AI agent that thinks in phases — Plan → Execute → Reflect → Synthesize → Stop**
 
@@ -196,12 +198,6 @@ An independent safeguard that enforces a configurable maximum number of steps. T
 
 ### 📄 Synthesizer
 Once the loop terminates, the Synthesizer receives the full execution history and produces a final, consolidated, human-readable answer — ensuring the output is coherent and not just a raw dump of intermediate results.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
