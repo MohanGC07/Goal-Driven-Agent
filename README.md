@@ -115,7 +115,7 @@ goal-driven-agent/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/goal-driven-agent.git
+git clone https://github.com/MohanGC07/Goal-Driven-Agent.git
 cd goal-driven-agent
 ```
 
